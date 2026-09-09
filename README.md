@@ -147,11 +147,6 @@ GITHUB // ANALYTICS
 <img src="https://streak-stats.demolab.com?user=ronaldmelo468-dotcom&theme=github-dark-blue&hide_border=true&background=05080D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 </div>
 
-📈
-SYSTEM // ACTIVITY
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ronaldmelo468-dotcom&bg_color=05080D&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
-</div>
 
 <div align="center">
 
