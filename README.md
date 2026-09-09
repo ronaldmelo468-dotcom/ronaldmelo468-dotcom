@@ -1,3 +1,4 @@
+
 <div align="center">
 <!-- ===================================================== -->
 <!--                 SYSTEM INITIALIZATION                 -->
@@ -152,17 +153,15 @@ SYSTEM // ACTIVITY
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ronaldmelo468-dotcom&bg_color=05080D&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
-🏆
-ACHIEVEMENTS // TROPHIES
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ronaldmelo468-dotcom&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=ronaldmelo468-dotcom&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"
+alt="GitHub Trophies"
+/>
+
 </div>
 
-🐍
-CONTRIBUTIONS // SNAKE
-<div align="center">
-<img src="https://raw.githubusercontent.com/ronaldmelo468-dotcom/ronaldmelo468-dotcom/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</div>
 
 🌐
 NETWORK // SOCIAL
