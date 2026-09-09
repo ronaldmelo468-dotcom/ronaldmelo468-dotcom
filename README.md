@@ -136,15 +136,29 @@ $ echo "KEEP BUILDING"
 
 └────────────────────────────────────────────────────────────┘
 
-📊
-GITHUB // ANALYTICS
+## 📊 GITHUB // ANALYTICS
+
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ronaldmelo468-dotcom&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=05080D&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldmelo468-dotcom&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=05080D&title_color=00D9FF&text_color=C9D1D9"/>
-</div>
-<br>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=ronaldmelo468-dotcom&theme=github-dark-blue&hide_border=true&background=05080D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=ronaldmelo468-dotcom&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=05080D&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"
+  alt="GitHub Stats"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldmelo468-dotcom&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=05080D&title_color=00D9FF&text_color=C9D1D9"
+  alt="Top Languages"
+/>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com?user=ronaldmelo468-dotcom&theme=github-dark-blue&hide_border=true&background=05080D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
+  alt="GitHub Streak"
+/>
+
 </div>
 
 
